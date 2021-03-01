@@ -1,2 +1,0 @@
-# Kisokk
-print("Hello World")
